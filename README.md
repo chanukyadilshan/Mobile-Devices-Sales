@@ -4,4 +4,4 @@ This repository contains a Power BI report and associated files for analyzing mo
 # How to Use
 1.Clone/download this repository.  
 2.Open Mobile_sales_data.pbix in Power BI Desktop.   
-3.Explore and customize the dashboard as needed.
+3.Explore and customize the dashboard as needed. 
